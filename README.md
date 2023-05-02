@@ -2,6 +2,11 @@
 
 Load current AWS credentials from [aws-vault](https://github.com/99designs/aws-vault).
 
+## Tip / Hint / Update (from AG)
+
+These days consider using [Granted](https://www.granted.dev) instead ☝️
+Also you may want to check [this article](https://www.lastweekinaws.com/blog/taking-aws-account-logins-for-granted/) in order to see the benefits over `aws-vault`.
+
 ## Usage
 
 ```typescript
